@@ -28,12 +28,18 @@
   #logo h2 {
     font-size: 2.2em;
   }
+
+  #social {
+    top: 72px;
+  }
 }
 
-@media only screen and () {
-  
+@media only screen and (max-width: 800px) {
+  #navbar {
+    font-size: 0.9em;
+  }
 }
 
-@media only screen and () {
-  
+@media only screen and (max-width: ) {
+
 }
